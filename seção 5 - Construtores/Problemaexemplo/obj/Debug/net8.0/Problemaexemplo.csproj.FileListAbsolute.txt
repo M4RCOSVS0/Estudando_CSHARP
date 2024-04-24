@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\bin\Debug\net8.0\Problemaexemplo.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\bin\Debug\net8.0\Problemaexemplo.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\bin\Debug\net8.0\Problemaexemplo.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\bin\Debug\net8.0\Problemaexemplo.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\bin\Debug\net8.0\Problemaexemplo.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\refint\Problemaexemplo.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\Problemaexemplo.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Problemaexemplo\obj\Debug\net8.0\ref\Problemaexemplo.dll

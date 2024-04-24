@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\bin\Debug\net8.0\Construtores.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\bin\Debug\net8.0\Construtores.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\bin\Debug\net8.0\Construtores.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\bin\Debug\net8.0\Construtores.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtores\obj\Debug\net8.0\ref\Construtores.dll
