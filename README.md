@@ -1,2 +1,2 @@
 # Estudando_CSHARP
- Estudo da linguem c# através do curso de Nélio Alves
+ Estudo da linguagem c# através do curso de Nélio Alves
