@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\bin\Debug\net8.0\ex1Vetores.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\bin\Debug\net8.0\ex1Vetores.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\bin\Debug\net8.0\ex1Vetores.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\bin\Debug\net8.0\ex1Vetores.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\bin\Debug\net8.0\ex1Vetores.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\refint\ex1Vetores.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ex1Vetores.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ex1Vetores\obj\Debug\net8.0\ref\ex1Vetores.dll
