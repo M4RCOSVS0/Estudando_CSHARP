@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\bin\Debug\net8.0\switchcase.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\bin\Debug\net8.0\switchcase.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\bin\Debug\net8.0\switchcase.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\bin\Debug\net8.0\switchcase.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\bin\Debug\net8.0\switchcase.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\refint\switchcase.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\switchcase.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\switch\obj\Debug\net8.0\ref\switchcase.dll

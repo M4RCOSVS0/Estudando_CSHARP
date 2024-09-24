@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\bin\Debug\net8.0\DateTime02.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\bin\Debug\net8.0\DateTime02.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\bin\Debug\net8.0\DateTime02.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\bin\Debug\net8.0\DateTime02.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\bin\Debug\net8.0\DateTime02.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\refint\DateTime02.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\DateTime02.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\DateTime02\obj\Debug\net8.0\ref\DateTime02.dll
