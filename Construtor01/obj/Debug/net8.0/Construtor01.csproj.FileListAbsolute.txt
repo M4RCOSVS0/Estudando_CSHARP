@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\bin\Debug\net8.0\Construtor01.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\bin\Debug\net8.0\Construtor01.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\bin\Debug\net8.0\Construtor01.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\bin\Debug\net8.0\Construtor01.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\bin\Debug\net8.0\Construtor01.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\refint\Construtor01.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\Construtor01.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Construtor01\obj\Debug\net8.0\ref\Construtor01.dll

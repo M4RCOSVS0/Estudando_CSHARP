@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\bin\Debug\net8.0\Exercicio03.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\bin\Debug\net8.0\Exercicio03.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\bin\Debug\net8.0\Exercicio03.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\bin\Debug\net8.0\Exercicio03.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\bin\Debug\net8.0\Exercicio03.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\refint\Exercicio03.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\Exercicio03.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\exercicio03\obj\Debug\net8.0\ref\Exercicio03.dll

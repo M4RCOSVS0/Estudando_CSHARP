@@ -15,19 +15,19 @@
       "AbsoluteMoniker": "D:0:0:{67589E2C-628A-40AB-A5D5-181D91B20B66}|..\\Listas01\\Listas01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\listas01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{261EDDAB-4115-41A8-B226-4369AEA4D53B}|..\\Exercicio Vetor\\Exercicio Vetor.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{261EDDAB-4115-41A8-B226-4369AEA4D53B}|..\\Exercicio Vetor\\Exercicio Vetor.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio vetor\\clientepousada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\exerc\u00EDcio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{261EDDAB-4115-41A8-B226-4369AEA4D53B}|..\\Exercicio Vetor\\Exercicio Vetor.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio vetor\\clientepousada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261EDDAB-4115-41A8-B226-4369AEA4D53B}|..\\Exercicio Vetor\\Exercicio Vetor.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,9 +71,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ExercicioMatrizes\\Program.cs",
               "RelativeDocumentMoniker": "..\\ExercicioMatrizes\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ExercicioMatrizes\\Program.cs*",
-              "RelativeToolTip": "..\\ExercicioMatrizes\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ExercicioMatrizes\\Program.cs",
+              "RelativeToolTip": "..\\ExercicioMatrizes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T22:32:57.105Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Program.cs",
               "RelativeDocumentMoniker": "..\\Exerc\u00EDcio01\\Program.cs",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Conta.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Conta.cs",
               "RelativeDocumentMoniker": "..\\Exerc\u00EDcio01\\Conta.cs",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Exerc\u00EDcio01.csproj",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj",
               "RelativeDocumentMoniker": "..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj",
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ClientePousada.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Vetor\\ClientePousada.cs",
               "RelativeDocumentMoniker": "..\\Exercicio Vetor\\ClientePousada.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Vetor\\Program.cs",
               "RelativeDocumentMoniker": "..\\Exercicio Vetor\\Program.cs",

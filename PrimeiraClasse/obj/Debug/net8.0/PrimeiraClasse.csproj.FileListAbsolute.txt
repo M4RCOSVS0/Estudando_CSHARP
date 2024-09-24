@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\refint\PrimeiraClasse.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\PrimeiraClasse\obj\Debug\net8.0\ref\PrimeiraClasse.dll

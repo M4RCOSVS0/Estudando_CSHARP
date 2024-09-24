@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\bin\Debug\net8.0\MembrosEstaticos02.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\bin\Debug\net8.0\MembrosEstaticos02.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\bin\Debug\net8.0\MembrosEstaticos02.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\bin\Debug\net8.0\MembrosEstaticos02.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\bin\Debug\net8.0\MembrosEstaticos02.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\refint\MembrosEstaticos02.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\MembrosEstaticos02.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\MembrosEstaticos02\obj\Debug\net8.0\ref\MembrosEstaticos02.dll

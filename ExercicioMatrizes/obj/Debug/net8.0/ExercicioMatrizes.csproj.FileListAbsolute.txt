@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\refint\ExercicioMatrizes.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\ExercicioMatrizes\obj\Debug\net8.0\ref\ExercicioMatrizes.dll
