@@ -9,16 +9,13 @@
       "AbsoluteMoniker": "D:0:0:{CEBD3326-5045-4786-A58A-6450526C6FA6}|..\\Exercicio Listas\\Exercicio Listas.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio listas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEBD3326-5045-4786-A58A-6450526C6FA6}|..\\Exercicio Listas\\Exercicio Listas.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio listas\\exercicio listas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,9 +35,9 @@
               "RelativeDocumentMoniker": "..\\Exercicio Listas\\Program.cs",
               "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Program.cs",
               "RelativeToolTip": "..\\Exercicio Listas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:31:44.838Z",
+              "WhenOpened": "2024-11-08T00:34:28.34Z",
               "EditorCaption": ""
             },
             {
@@ -53,31 +50,18 @@
               "RelativeToolTip": "..\\Exercicio Listas\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:31:37.649Z",
+              "WhenOpened": "2024-11-08T00:34:26.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Exercicio Listas",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Exercicio Listas.csproj",
-              "RelativeDocumentMoniker": "..\\Exercicio Listas\\Exercicio Listas.csproj",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Exercicio Listas.csproj",
-              "RelativeToolTip": "..\\Exercicio Listas\\Exercicio Listas.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-08T00:31:33.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "..\\Enum\\Entities\\Enums\\OrderStatus.cs",
               "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Entities\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "..\\Enum\\Entities\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T00:03:54.678Z",
               "EditorCaption": ""
