@@ -1,0 +1,15 @@
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\bin\Debug\net8.0\Enum.exe
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\bin\Debug\net8.0\Enum.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\bin\Debug\net8.0\Enum.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.pdb
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\Documentos\GitHub\Meus Projetos\Estudando_CSHARP\Enum\obj\Debug\net8.0\ref\Enum.dll

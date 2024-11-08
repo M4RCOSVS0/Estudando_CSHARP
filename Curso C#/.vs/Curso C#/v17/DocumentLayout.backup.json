@@ -3,55 +3,22 @@
   "WorkspaceRootPath": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Curso C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63546276-9378-4620-92FC-701507683B62}|..\\DateTime02\\DateTime02.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\datetime02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CB42DD7-F91F-4262-B4C7-E20E072347EA}|..\\TimeSpan01\\TimeSpan01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\timespan01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C16D818-AE16-4933-884D-999922016D62}|..\\DateTime\\DateTime.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{104C75B2-77F0-4FF6-8AB8-A492950F2C90}|..\\coisas para string\\coisas para string.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\coisas para string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5852A039-793E-4BDD-A3F2-6411D55D4DA6}|..\\ternario\\ternario.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\ternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72A79C8-AAB5-4C35-AEBF-AC9FE1967DEA}|..\\switch\\switch.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9022A7F6-2C46-484E-984F-C036932002CD}|..\\var\\var.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3B34624-D93F-42BA-A975-AE6C7BE88D2E}|..\\Exercicio Matrizes\\Exercicio Matrizes.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFDD9E3-3889-4416-95EA-5BBF11350EF3}|..\\ExercicioMatrizes\\ExercicioMatrizes.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerciciomatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEBD3326-5045-4786-A58A-6450526C6FA6}|..\\Exercicio Listas\\Exercicio Listas.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEBD3326-5045-4786-A58A-6450526C6FA6}|..\\Exercicio Listas\\Exercicio Listas.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio listas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67589E2C-628A-40AB-A5D5-181D91B20B66}|..\\Listas01\\Listas01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\listas01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEBD3326-5045-4786-A58A-6450526C6FA6}|..\\Exercicio Listas\\Exercicio Listas.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio listas\\exercicio listas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}|..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exerc\u00EDcio01\\exerc\u00EDcio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{261EDDAB-4115-41A8-B226-4369AEA4D53B}|..\\Exercicio Vetor\\Exercicio Vetor.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio vetor\\clientepousada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{261EDDAB-4115-41A8-B226-4369AEA4D53B}|..\\Exercicio Vetor\\Exercicio Vetor.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031035AC-5A65-4B4A-87C2-3C475FA28DE0}|..\\Enum\\Enum.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,229 +28,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Program.cs",
               "RelativeDocumentMoniker": "..\\Exercicio Listas\\Program.cs",
               "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Program.cs",
               "RelativeToolTip": "..\\Exercicio Listas\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:47:40.932Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Funcionario.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio Listas\\Funcionario.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Funcionario.cs",
-              "RelativeToolTip": "..\\Exercicio Listas\\Funcionario.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:58:37.946Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\DateTime02\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DateTime02\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\DateTime02\\Program.cs",
-              "RelativeToolTip": "..\\DateTime02\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T23:03:51.888Z",
+              "WhenOpened": "2024-11-08T00:31:44.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\TimeSpan01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\TimeSpan01\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\TimeSpan01\\Program.cs",
-              "RelativeToolTip": "..\\TimeSpan01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Funcionario.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio Listas\\Funcionario.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Funcionario.cs",
+              "RelativeToolTip": "..\\Exercicio Listas\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:59:26.303Z",
+              "WhenOpened": "2024-11-08T00:31:37.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\DateTime\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DateTime\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\DateTime\\Program.cs",
-              "RelativeToolTip": "..\\DateTime\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB0AAAAiAAAAAAAAAA==",
+              "Title": "Exercicio Listas",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Exercicio Listas.csproj",
+              "RelativeDocumentMoniker": "..\\Exercicio Listas\\Exercicio Listas.csproj",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Listas\\Exercicio Listas.csproj",
+              "RelativeToolTip": "..\\Exercicio Listas\\Exercicio Listas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T00:31:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "..\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "..\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:51:02.504Z",
+              "WhenOpened": "2024-11-08T00:03:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Enum\\Entities\\Order.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\Enum\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:59:40.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\coisas para string\\Program.cs",
-              "RelativeDocumentMoniker": "..\\coisas para string\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\coisas para string\\Program.cs",
-              "RelativeToolTip": "..\\coisas para string\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Enum\\Program.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Enum\\Program.cs",
+              "RelativeToolTip": "..\\Enum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:44:01.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ternario\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ternario\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ternario\\Program.cs",
-              "RelativeToolTip": "..\\ternario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:41:09.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\switch\\Program.cs",
-              "RelativeDocumentMoniker": "..\\switch\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\switch\\Program.cs",
-              "RelativeToolTip": "..\\switch\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:37:05.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\var\\Program.cs",
-              "RelativeDocumentMoniker": "..\\var\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\var\\Program.cs",
-              "RelativeToolTip": "..\\var\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:35:43.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Matrizes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio Matrizes\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Matrizes\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio Matrizes\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:39:38.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ExercicioMatrizes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ExercicioMatrizes\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\ExercicioMatrizes\\Program.cs",
-              "RelativeToolTip": "..\\ExercicioMatrizes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T22:32:57.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Listas01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Listas01\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Listas01\\Program.cs",
-              "RelativeToolTip": "..\\Listas01\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T23:29:27.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exerc\u00EDcio01\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Program.cs",
-              "RelativeToolTip": "..\\Exerc\u00EDcio01\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:33:10.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Conta.cs",
-              "RelativeDocumentMoniker": "..\\Exerc\u00EDcio01\\Conta.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Conta.cs",
-              "RelativeToolTip": "..\\Exerc\u00EDcio01\\Conta.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:33:03.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Exerc\u00EDcio01.csproj",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj",
-              "RelativeDocumentMoniker": "..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj",
-              "RelativeToolTip": "..\\Exerc\u00EDcio01\\Exerc\u00EDcio01.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-17T22:33:00.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClientePousada.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Vetor\\ClientePousada.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio Vetor\\ClientePousada.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Vetor\\ClientePousada.cs",
-              "RelativeToolTip": "..\\Exercicio Vetor\\ClientePousada.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:28:45.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Vetor\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio Vetor\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio Vetor\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio Vetor\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:27:37.082Z",
+              "WhenOpened": "2024-11-07T23:59:21.321Z",
               "EditorCaption": ""
             }
           ]

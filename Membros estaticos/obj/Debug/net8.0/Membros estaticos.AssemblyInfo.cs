@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Membros estaticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb4cf9d8804442f06a644d9aa1f85108c1470e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7765af17706ad2fb8bcf747938c022cc5c1c64df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Membros estaticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Membros estaticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
