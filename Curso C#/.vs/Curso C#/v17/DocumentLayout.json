@@ -3,22 +3,19 @@
   "WorkspaceRootPath": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Curso C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}|..\\Exercicio\\Exercicio.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4FCBF9-B10F-410B-B152-AD363C230993}|..\\Course09_1\\Course09_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course09_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}|..\\Exercicio\\Exercicio.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4FCBF9-B10F-410B-B152-AD363C230993}|..\\Course09_1\\Course09_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course09_1\\course09_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}|..\\Exercicio\\Exercicio.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4FCBF9-B10F-410B-B152-AD363C230993}|..\\Course09_1\\Course09_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course09_1\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}|..\\Exercicio\\Exercicio.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4FCBF9-B10F-410B-B152-AD363C230993}|..\\Course09_1\\Course09_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course09_1\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}|..\\Exercicio\\Exercicio.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}|..\\Exercicio\\Exercicio.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4FCBF9-B10F-410B-B152-AD363C230993}|..\\Course09_1\\Course09_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course09_1\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,80 +25,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "..\\Course09_1\\Entities\\SavingsAccount.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "..\\Course09_1\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:58:46.21Z",
+              "WhenOpened": "2024-11-22T20:02:36.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio\\Entities\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "..\\Exercicio\\Entities\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Course09_1",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Course09_1.csproj",
+              "RelativeDocumentMoniker": "..\\Course09_1\\Course09_1.csproj",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Course09_1.csproj",
+              "RelativeToolTip": "..\\Course09_1\\Course09_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T19:32:51.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Course09_1\\Program.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Program.cs",
+              "RelativeToolTip": "..\\Course09_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:38:02.368Z"
+              "WhenOpened": "2024-11-22T19:19:23.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio\\Entities\\Order.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Order.cs",
-              "RelativeToolTip": "..\\Exercicio\\Entities\\Order.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA3wD4AAAANAAAAAAAAAA==",
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "..\\Course09_1\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "..\\Course09_1\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:36:57.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio\\Entities\\Client.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Client.cs",
-              "RelativeToolTip": "..\\Exercicio\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:32:10.563Z"
+              "WhenOpened": "2024-11-22T19:22:37.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio\\Entities\\OrderItem.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "..\\Exercicio\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA5wCgAAAAJAAAAAAAAAA==",
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "..\\Course09_1\\Entities\\Account.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course09_1\\Entities\\Account.cs",
+              "RelativeToolTip": "..\\Course09_1\\Entities\\Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:24:15.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio\\Entities\\Product.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio\\Entities\\Product.cs",
-              "RelativeToolTip": "..\\Exercicio\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:20:49.184Z",
+              "WhenOpened": "2024-11-22T19:19:48.042Z",
               "EditorCaption": ""
             }
           ]
