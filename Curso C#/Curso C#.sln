@@ -27,15 +27,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MembrosEstaticos03", "..\Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio06", "..\exercicio06\Exercicio06.csproj", "{55150822-DFD0-4AB1-B5AC-6B9DFBD68A63}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Classes, atributos,métodos, membros estáticos", "4 - Classes, atributos,métodos, membros estáticos", "{B350D72F-7395-4D4C-A707-F1CB051131CB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classes, atributos,métodos, membros estáticos", "1 - Classes, atributos,métodos, membros estáticos", "{B350D72F-7395-4D4C-A707-F1CB051131CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtor01", "..\Construtor01\Construtor01.csproj", "{06042640-71AD-49A7-B298-7480ABE56193}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercício01", "..\Exercício01\Exercício01.csproj", "{C1C924E5-45A3-434F-8EEA-AD2613BD4EC2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Contrutores, atributos, métodos, membros estáticos", "5 - Contrutores, atributos, métodos, membros estáticos", "{1DC2571F-803F-48C1-9371-80F8C57FEB72}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Contrutores, atributos, métodos, membros estáticos", "2 - Contrutores, atributos, métodos, membros estáticos", "{1DC2571F-803F-48C1-9371-80F8C57FEB72}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Comportamento de memória,arrays, listas", "6 - Comportamento de memória,arrays, listas", "{8411CCE9-4DE6-49B8-8956-2C7135791722}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Comportamento de memória,arrays, listas", "3 - Comportamento de memória,arrays, listas", "{8411CCE9-4DE6-49B8-8956-2C7135791722}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio Vetor", "..\Exercicio Vetor\Exercicio Vetor.csproj", "{261EDDAB-4115-41A8-B226-4369AEA4D53B}"
 EndProject
@@ -47,7 +47,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMatrizes", "..\Exe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio Matrizes", "..\Exercicio Matrizes\Exercicio Matrizes.csproj", "{B3B34624-D93F-42BA-A975-AE6C7BE88D2E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Topicos C# 1", "7 - Topicos C# 1", "{01D8D828-7E0B-4E5B-A5A2-20F377FDCE85}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Topicos C# 1", "4- Topicos C# 1", "{01D8D828-7E0B-4E5B-A5A2-20F377FDCE85}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "var", "..\var\var.csproj", "{9022A7F6-2C46-484E-984F-C036932002CD}"
 EndProject
@@ -63,7 +63,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeSpan01", "..\TimeSpan01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime02", "..\DateTime02\DateTime02.csproj", "{63546276-9378-4620-92FC-701507683B62}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Enum", "8 - Enum", "{659AC59A-9788-4681-86ED-CD9807ACFC2C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Enum", "5 - Enum", "{659AC59A-9788-4681-86ED-CD9807ACFC2C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course", "..\Enum\Course.csproj", "{031035AC-5A65-4B4A-87C2-3C475FA28DE0}"
 EndProject
@@ -73,7 +73,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course03", "..\Course03\Cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio", "..\Exercicio\Exercicio.csproj", "{350E9A58-99AB-4B4B-9735-A7DB8E99B7BB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 - Herança e Polimorfismo", "9 - Herança e Polimorfismo", "{DB674235-46E7-4CC4-8B3C-1FE36BA1BCEF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Herança e Polimorfismo", "6 - Herança e Polimorfismo", "{DB674235-46E7-4CC4-8B3C-1FE36BA1BCEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course09_1", "..\Course09_1\Course09_1.csproj", "{CF4FCBF9-B10F-410B-B152-AD363C230993}"
 EndProject
@@ -84,6 +84,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course9_2", "..\Course9_2\Course9_2.csproj", "{1F81806E-7E0C-477B-849C-F8522F4B9737}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Proposto02", "..\Exercicio_Proposto02\Exercicio_Proposto02.csproj", "{5E3B3A81-E8E4-41D4-8606-BC1C0710C946}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Tratamento de exceções", "7 - Tratamento de exceções", "{FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course07_1", "..\Course07_1\Course07_1.csproj", "{02312626-C3EE-4E84-A80B-29ED1B6E76EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course07_2", "..\Course07_2\Course07_2.csproj", "{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course07_3", "..\Course07_3\Course07_3.csproj", "{DA4C47DC-5D24-433E-8265-F0593EF5A660}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +239,18 @@ Global
 		{5E3B3A81-E8E4-41D4-8606-BC1C0710C946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E3B3A81-E8E4-41D4-8606-BC1C0710C946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E3B3A81-E8E4-41D4-8606-BC1C0710C946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02312626-C3EE-4E84-A80B-29ED1B6E76EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02312626-C3EE-4E84-A80B-29ED1B6E76EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02312626-C3EE-4E84-A80B-29ED1B6E76EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02312626-C3EE-4E84-A80B-29ED1B6E76EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4C47DC-5D24-433E-8265-F0593EF5A660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4C47DC-5D24-433E-8265-F0593EF5A660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4C47DC-5D24-433E-8265-F0593EF5A660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4C47DC-5D24-433E-8265-F0593EF5A660}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -271,6 +291,9 @@ Global
 		{9643F90A-6D3D-45AF-82AA-A2D77F172B62} = {DB674235-46E7-4CC4-8B3C-1FE36BA1BCEF}
 		{1F81806E-7E0C-477B-849C-F8522F4B9737} = {DB674235-46E7-4CC4-8B3C-1FE36BA1BCEF}
 		{5E3B3A81-E8E4-41D4-8606-BC1C0710C946} = {DB674235-46E7-4CC4-8B3C-1FE36BA1BCEF}
+		{02312626-C3EE-4E84-A80B-29ED1B6E76EE} = {FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}
+		{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6} = {FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}
+		{DA4C47DC-5D24-433E-8265-F0593EF5A660} = {FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F671FAF1-7CC2-4478-8D94-81AD20BFF21A}

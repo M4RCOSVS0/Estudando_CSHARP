@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ternario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fca427fdb5ed9c9e08b6fa71f30c2722d22eaaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+485bb9bcb31d5c70d214afb0bd9d08ed19d0e44d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ternario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ternario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
