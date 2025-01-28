@@ -1,6 +1,7 @@
 ﻿using Course07_3.Entities;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Diagnostics.Metrics;
+using Course07_3.Entities.Exceptions;
 
 namespace Course07_3
 {
@@ -8,18 +9,15 @@ namespace Course07_3
     {
         static void Main(string[] args)
         {
-            Console.Write("Room number: ");
-            int number = int.Parse(Console.ReadLine());
-            Console.Write("Check-in date (dd/MM/yyyy): ");
-            DateTime checkin = DateTime.Parse(Console.ReadLine());
-            Console.Write("Check-in date (dd/MM/yyyy): ");
-            DateTime checkout = DateTime.Parse(Console.ReadLine());
-            if (checkout <= checkin)
+            try
             {
-                Console.WriteLine("Error in reservation: Reservation dates for update must be future dates");
-            }
-            else
-            {
+                Console.Write("Room number: ");
+                int number = int.Parse(Console.ReadLine());
+                Console.Write("Check-in date (dd/MM/yyyy): ");
+                DateTime checkin = DateTime.Parse(Console.ReadLine());
+                Console.Write("Check-out date (dd/MM/yyyy): ");
+                DateTime checkout = DateTime.Parse(Console.ReadLine());
+
                 Reservation reservation = new Reservation(number, checkin, checkout);
                 Console.WriteLine("Reservation: " + reservation);
 
@@ -27,26 +25,24 @@ namespace Course07_3
                 Console.WriteLine("Enter data to update the reservation: ");
                 Console.Write("Check-in date (dd/MM/yyyy): ");
                 checkin = DateTime.Parse(Console.ReadLine());
-                Console.Write("Check-in date (dd/MM/yyyy): ");
+                Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkout = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-
-                if (now <= checkin || checkout < now)
-                {
-                    Console.WriteLine("Error in reservation: Check-out date must be after check-in date");
-                }else if (checkout <= checkin)
-                {
-                    Console.WriteLine("Error in reservation: Reservation dates for update must be future dates");
-                }
-                else
-                {
-                    reservation.UpdadeDates(checkin, checkout);
-                    Console.WriteLine("Reservation: " + reservation);
-                }
+                reservation.UpdadeDates(checkin, checkout);
+                Console.WriteLine("Reservation: " + reservation);
             }
-
-
+            catch (DomainException e)
+            {
+                Console.WriteLine("Erro in reservartion: " + e.Message);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("Format error: " + e.Message);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine("Unexception error " + e.Message + "\n");
+            }
         }
     }
 }

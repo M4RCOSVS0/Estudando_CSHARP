@@ -7,6 +7,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA4C47DC-5D24-433E-8265-F0593EF5A660}|..\\Course07_3\\Course07_3.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course07_3\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4C47DC-5D24-433E-8265-F0593EF5A660}|..\\Course07_3\\Course07_3.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course07_3\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4C47DC-5D24-433E-8265-F0593EF5A660}|..\\Course07_3\\Course07_3.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course07_3\\course07_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "..\\Course07_3\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "..\\Course07_3\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:13:20.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course07_3",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Course07_3.csproj",
+              "RelativeDocumentMoniker": "..\\Course07_3\\Course07_3.csproj",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Course07_3.csproj",
+              "RelativeToolTip": "..\\Course07_3\\Course07_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T01:09:12.44Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -26,7 +58,7 @@
               "RelativeDocumentMoniker": "..\\Course07_3\\Entities\\Reservation.cs",
               "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Entities\\Reservation.cs",
               "RelativeToolTip": "..\\Course07_3\\Entities\\Reservation.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T22:46:43.301Z",
               "EditorCaption": ""
@@ -39,7 +71,7 @@
               "RelativeDocumentMoniker": "..\\Course07_3\\Program.cs",
               "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Program.cs",
               "RelativeToolTip": "..\\Course07_3\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T22:44:58.163Z",
               "EditorCaption": ""

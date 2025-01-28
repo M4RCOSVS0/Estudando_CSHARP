@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Course07_3.Entities.Exceptions;
 namespace Course07_3.Entities
 {
     internal class Reservation
@@ -18,6 +18,10 @@ namespace Course07_3.Entities
 
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Chech-out date must be after chech-in date");
+            }
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -31,6 +35,17 @@ namespace Course07_3.Entities
 
         public void UpdadeDates(DateTime checkin, DateTime checkout)
         {
+            DateTime now = DateTime.Now;
+
+            if (checkin < now || checkout < now)
+            {
+                 throw new DomainException("Reservation dates for update must be future dates");
+            }
+            if (checkout <= checkin)
+            {
+                throw new DomainException("Chech-out date must be after chech-in date");
+            }
+
             CheckIn = checkin;
             CheckOut = checkout;
         }
