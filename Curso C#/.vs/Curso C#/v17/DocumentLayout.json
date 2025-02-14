@@ -3,22 +3,25 @@
   "WorkspaceRootPath": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Curso C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2524993C-34B9-4F4E-8EFE-2C607683C413}|..\\Exercicio_Resolvido01\\Exercicio_Resolvido01.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\exercicio_resolvido01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0D237B-C30A-4966-98EA-85AD7C553A77}|..\\Atividade_exception\\Atividade_exception.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\atividade_exception\\entities\\exceptions\\domainexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\service\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0D237B-C30A-4966-98EA-85AD7C553A77}|..\\Atividade_exception\\Atividade_exception.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\atividade_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\service\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA4C47DC-5D24-433E-8265-F0593EF5A660}|..\\Course07_3\\Course07_3.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\service\\interface\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0D237B-C30A-4966-98EA-85AD7C553A77}|..\\Atividade_exception\\Atividade_exception.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\atividade_exception\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA4C47DC-5D24-433E-8265-F0593EF5A660}|..\\Course07_3\\Course07_3.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course07_3\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12235F7B-62CE-450F-A285-6959B01F0F5C}|..\\Course8_1\\Course8_1.csproj|d:\\documentos\\github\\meus projetos\\estudando_csharp\\course8_1\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,80 +31,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio_Resolvido01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio_Resolvido01\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Exercicio_Resolvido01\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio_Resolvido01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Service\\Interface\\ITaxService.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Service\\Interface\\ITaxService.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Service\\Interface\\ITaxService.cs",
+              "RelativeToolTip": "..\\Course8_1\\Service\\Interface\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T00:08:04.623Z",
+              "WhenOpened": "2025-02-13T23:25:36.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Entities\\Reservation.cs",
-              "RelativeDocumentMoniker": "..\\Course07_3\\Entities\\Reservation.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Entities\\Reservation.cs",
-              "RelativeToolTip": "..\\Course07_3\\Entities\\Reservation.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "..\\Course8_1\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T00:00:28.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DomainExeption.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Atividade_exception\\Entities\\Exceptions\\DomainExeption.cs",
-              "RelativeDocumentMoniker": "..\\Atividade_exception\\Entities\\Exceptions\\DomainExeption.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Atividade_exception\\Entities\\Exceptions\\DomainExeption.cs",
-              "RelativeToolTip": "..\\Atividade_exception\\Entities\\Exceptions\\DomainExeption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T23:41:37.392Z"
+              "WhenOpened": "2025-02-13T22:55:55.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Atividade_exception\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "..\\Atividade_exception\\Entities\\Account.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Atividade_exception\\Entities\\Account.cs",
-              "RelativeToolTip": "..\\Atividade_exception\\Entities\\Account.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Entities\\Invoice.cs",
+              "RelativeToolTip": "..\\Course8_1\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T21:25:39.471Z"
+              "WhenOpened": "2025-02-13T22:55:54.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Course07_3\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course07_3\\Program.cs",
-              "RelativeToolTip": "..\\Course07_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Entities\\CarRental.cs",
+              "RelativeToolTip": "..\\Course8_1\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T23:34:06.813Z"
+              "WhenOpened": "2025-02-13T22:55:54.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Atividade_exception\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Atividade_exception\\Program.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Atividade_exception\\Program.cs",
-              "RelativeToolTip": "..\\Atividade_exception\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Service\\RentalService.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Service\\RentalService.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Service\\RentalService.cs",
+              "RelativeToolTip": "..\\Course8_1\\Service\\RentalService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T21:21:13.693Z"
+              "WhenOpened": "2025-02-13T22:55:51.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Service\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Service\\BrazilTaxService.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Service\\BrazilTaxService.cs",
+              "RelativeToolTip": "..\\Course8_1\\Service\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:55:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Course8_1\\Program.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Meus Projetos\\Estudando_CSHARP\\Course8_1\\Program.cs",
+              "RelativeToolTip": "..\\Course8_1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:55:49.686Z",
+              "EditorCaption": ""
             }
           ]
         }

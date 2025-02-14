@@ -95,6 +95,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course07_3", "..\Course07_3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade_exception", "..\Atividade_exception\Atividade_exception.csproj", "{EC0D237B-C30A-4966-98EA-85AD7C553A77}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Interfaces", "8 - Interfaces", "{4CD0CD40-C641-4708-BA2F-7750F9255587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course8_1", "..\Course8_1\Course8_1.csproj", "{12235F7B-62CE-450F-A285-6959B01F0F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -257,6 +261,10 @@ Global
 		{EC0D237B-C30A-4966-98EA-85AD7C553A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0D237B-C30A-4966-98EA-85AD7C553A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0D237B-C30A-4966-98EA-85AD7C553A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12235F7B-62CE-450F-A285-6959B01F0F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12235F7B-62CE-450F-A285-6959B01F0F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12235F7B-62CE-450F-A285-6959B01F0F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12235F7B-62CE-450F-A285-6959B01F0F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -301,6 +309,7 @@ Global
 		{46CDC0F8-FFEF-484C-BEC5-A69A24DB34B6} = {FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}
 		{DA4C47DC-5D24-433E-8265-F0593EF5A660} = {FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}
 		{EC0D237B-C30A-4966-98EA-85AD7C553A77} = {FC08ACCF-9CBA-4F8C-8565-F7EFB369852D}
+		{12235F7B-62CE-450F-A285-6959B01F0F5C} = {4CD0CD40-C641-4708-BA2F-7750F9255587}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F671FAF1-7CC2-4478-8D94-81AD20BFF21A}
